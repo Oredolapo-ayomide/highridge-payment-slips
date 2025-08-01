@@ -12,7 +12,7 @@ This project generates payment slips for 400 dynamically created workers using b
   - `A1`: Salary > $10,000 and < $20,000.
   - `A5-F`: Female and salary > $7,500 and < $30,000.
 - Exception handling to catch and report errors.
-- Outputs weekly payment slips in both Python and R.
+- Outputs payment slips in both Python and R.
 
 ## Files
 
